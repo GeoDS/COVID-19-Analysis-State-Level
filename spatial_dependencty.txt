@@ -1,0 +1,64 @@
+2020-06-14 CCI
+Global Moran's I Summary
+Moran's Index:   0.357665 
+Expected Index:  -0.020833
+Variance:        0.009445 
+z-score:         3.894645 
+p-value:         0.000098
+
+2021-02-10 CCI
+Global Moran's I Summary
+Moran's Index:   0.560682 
+Expected Index:  -0.020833
+Variance:        0.009403 
+z-score:         5.996807 
+p-value:         0.000000
+
+2021-06-23 CCI
+Global Moran's I Summary
+Moran's Index:   0.258148 
+Expected Index:  -0.020833
+Variance:        0.009416 
+z-score:         2.875063 
+p-value:         0.004039
+
+
+all CCI
+Global Moran's I Summary
+Moran's Index:   0.234849 
+Expected Index:  -0.020833
+Variance:        0.009278 
+z-score:         2.654460 
+p-value:         0.007944
+
+2020-06-14 CMI
+Global Moran's I Summary
+Moran's Index:   0.674762 
+Expected Index:  -0.020833
+Variance:        0.009458 
+z-score:         7.152467 
+p-value:         0.000000
+
+2021-02-10 CMI
+Global Moran's I Summary
+Moran's Index:   0.409750 
+Expected Index:  -0.020833
+Variance:        0.009457 
+z-score:         4.427727 
+p-value:         0.000010
+
+2021-06-23 CMI
+Global Moran's I Summary
+Moran's Index:   0.375869 
+Expected Index:  -0.020833
+Variance:        0.009385 
+z-score:         4.094927 
+p-value:         0.000042
+
+all CMI
+Global Moran's I Summary
+Moran's Index:   0.266042 
+Expected Index:  -0.020833
+Variance:        0.008826 
+z-score:         3.053587 
+p-value:         0.002261
